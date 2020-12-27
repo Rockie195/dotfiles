@@ -8,4 +8,5 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh;
 
 source /Users/christiangomez/.config/broot/launcher/bash/br
 
+#Modify the prompt string
 # PS1="%~ >"
