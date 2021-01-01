@@ -18,3 +18,7 @@ source /Users/christiangomez/.config/broot/launcher/bash/br
 
 #Modify the prompt string
 # PS1="%~ >"
+
+#Informative git prompt for zsh
+source ~/zsh-git-prompt/zshrc.sh
+PROMPT='%B%m%~%b$(git_super_status) %# '
